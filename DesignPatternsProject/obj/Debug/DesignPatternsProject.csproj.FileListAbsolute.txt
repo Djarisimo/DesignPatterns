@@ -1,0 +1,6 @@
+C:\Users\Djarisimo\Desktop\DesignPatternsProject\DesignPatternsProject\bin\Debug\DesignPatternsProject.exe.config
+C:\Users\Djarisimo\Desktop\DesignPatternsProject\DesignPatternsProject\bin\Debug\DesignPatternsProject.exe
+C:\Users\Djarisimo\Desktop\DesignPatternsProject\DesignPatternsProject\bin\Debug\DesignPatternsProject.pdb
+C:\Users\Djarisimo\Desktop\DesignPatternsProject\DesignPatternsProject\obj\Debug\DesignPatternsProject.csprojAssemblyReference.cache
+C:\Users\Djarisimo\Desktop\DesignPatternsProject\DesignPatternsProject\obj\Debug\DesignPatternsProject.exe
+C:\Users\Djarisimo\Desktop\DesignPatternsProject\DesignPatternsProject\obj\Debug\DesignPatternsProject.pdb
